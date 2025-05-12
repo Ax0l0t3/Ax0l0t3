@@ -4,7 +4,8 @@ D4v3
     Enjoy_The_Ride();
   }
   
-  Front End Freelancer;
+  Full Stack Freelancer;
+  Web Automation Engineer;
   IT Enthusiast;
   Coding Gamer;
   White Hat Hacker in process;
